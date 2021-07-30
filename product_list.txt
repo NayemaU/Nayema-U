@@ -1,0 +1,6 @@
+latte
+americano
+espresso 
+cappacino
+mocha
+water
